@@ -1,6 +1,14 @@
 # Dcard-crawler
 學術使用，抓取 Dcard 特定版、特定文章
 
+##  Tool
+    dcard_search.py
+    - 抓取與關鍵字相關文章、ID、時間
+    dcard_search_detail.py
+    - 針對特定文章ID爬取內文
+    dcard_title.py
+    - 根據時間間隔，抓取相關文章
+
 ## 參數名
 時事版:trending
 
