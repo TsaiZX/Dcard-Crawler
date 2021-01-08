@@ -2,13 +2,11 @@
 學術使用，抓取 Dcard 特定版、特定文章
 
 ## 參數名
----
 時事版:trending
 
 popular = true 為熱門文章 / false 為最新文章
 
 ## Dcard Api
----
 - https://www.dcard.tw/_api/forums/[*版名]/posts?popular=true
 
 - https://www.dcard.tw/_api/forums/[*版名]/posts?popular=false&before=[*文章id]
